@@ -1,9 +1,9 @@
 ## sui-watchdog
 SUI watchdog bash script
 
-[BASH](https://badgen.net/badge/language/BASH/black)
+![BASH](https://badgen.net/badge/language/BASH/black)
 
-![Logo]([https://v2.cimg.co/news/85695/216050/main-picture.jpg](https://pbs.twimg.com/media/FgPxXnyWAAEtre-.jpg:large))
+![Logo](https://pbs.twimg.com/media/FgPxXnyWAAEtre-.jpg)
 
 ## Installation
 
