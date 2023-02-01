@@ -22,4 +22,4 @@ Script installation
 ## Watchdog
 
 1. For running sui-node process
-2. For growing up blocks
+2. For growing up transactions
