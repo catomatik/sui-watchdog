@@ -16,7 +16,7 @@ Script installation
 ```bash
   crontab -e
   # Paste and save
-  */5 * * * * ~/sui-watchdog.sh
+  */5 * * * * $HOME/sui-watchdog.sh
 ```
 
 ## Watchdog
